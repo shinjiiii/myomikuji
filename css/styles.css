@@ -14,7 +14,7 @@ body{
   font-weight: bold;
   font-size: 42px;
   cursor: pointer;
-  box-shadow: 0 10px 0 #d1483f;  /*X方向に0、Y方向に10px、ぼかしなし*/
+  box-shadow: 0 10px 0 #bd423a;  /*X方向に0、Y方向に10px、ぼかしなし*/
   user-select: none;
 }
 
@@ -23,6 +23,6 @@ body{
 }
 
 #btn:active{
-  box-shadow: 0 5px 0 #d1483f;
+  box-shadow: 0 5px 0 #bd423a;
   margin-top: 65px;
 }
